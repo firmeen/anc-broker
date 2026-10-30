@@ -1,0 +1,10 @@
+anc_collector.py.bak*
+anc_competitor_*
+anc_insurance_*
+*.json
+*.log
+*.html
+.env
+!.env.example
+
+__pycache__/
